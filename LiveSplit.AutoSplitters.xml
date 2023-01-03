@@ -16925,4 +16925,14 @@
         <Description>Autosplitter (by SBDWolf)</Description>
         <Website>https://github.com/SBDWolf/ASL-Autosplitters/tree/main/Moonlaw</Website>
     </AutoSplitter>   
+    <AutoSplitter>
+        <Games>
+            <Game>Final Fight 3</Game>
+        </Games>
+        <URLs>
+            <URL>https://github.com/xtagnado/Final-fight-3-autosplitter/blob/main/Autosplitter%20Final%20Fight%203%20(Room%20by%20Room).asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter (by Xtagnado). Splits every single section (when screen start to fade)</Description>
+    </AutoSplitter>   
 </AutoSplitters>
